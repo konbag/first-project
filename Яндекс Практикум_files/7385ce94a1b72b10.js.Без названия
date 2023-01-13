@@ -1,0 +1,3 @@
+if (!window._data) window._data = {};
+        window._data['payment-forms-config'] = {"default":[{"field":"first_name","defaultSize":"half"},{"field":"last_name","defaultSize":"half"},{"field":"country","defaultSize":"half"},{"field":"city","defaultSize":"half"},{"field":"postcode","defaultSize":"full"},{"field":"postaddress","defaultSize":"full"},{"field":"phone_number","defaultSize":"full","inputType":"tel"},{"field":"email","defaultSize":"full","inputType":"email"}],"boa":[],"dlocal":[{"field":"first_name","defaultSize":"half"},{"field":"last_name","defaultSize":"half"},{"field":"email","defaultSize":"full","inputType":"email"},{"field":"document","defaultSize":"full"}]};
+    
